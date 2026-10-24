@@ -46,6 +46,9 @@ Gunakan kode dengan hati-hati.
 
 *Insight:* Kategori dengan total pendapatan tertinggi disarankan untuk selalu dijaga ketersediaan stoknya (*safety stock*), terutama menjelang musim puncak belanja (*peak-season*). 
 
+Berikut adalah hasil eksekusi kueri pada pgAdmin:
+![Hasil Kueri Kategori Produk](hasil_kategori.png)
+
 ### B. Efisiensi Metode Pengiriman (Fulfilment)
 
 Membandingkan kinerja pengiriman internal Amazon dengan Merchant pihak ketiga. 
@@ -65,6 +68,9 @@ Gunakan kode dengan hati-hati.
 
 *Insight:* Mengidentifikasi apakah infrastruktur logistik Amazon berhasil memberikan kontribusi volume transaksi dan margin rata-rata yang lebih baik dibandingkan metode konvensional. 
 
+Berikut adalah hasil eksekusi kueri pada pgAdmin:
+![Hasil Kueri Metode Pengiriman](hasil_pengiriman.png)
+
 ### C. Analisis Segmen Pasar B2B (Business-to-Business)
 
 Mengukur seberapa besar dampak pasar grosir/B2B terhadap struktur pendapatan Amazon. 
@@ -81,6 +87,9 @@ GROUP BY b2b;
 Gunakan kode dengan hati-hati.
 
 *Insight:* Berdasarkan data analisis, transaksi non-B2B masih mendominasi platform. Namun, segmen B2B memiliki potensi pertumbuhan yang menarik jika didukung oleh kampanye pemasaran khusus korporat. 
+
+Berikut adalah hasil eksekusi kueri pada pgAdmin:
+![Hasil Kueri Segmen Pasar B2B](hasil_b2b.png)
 
 ### 5. Kesimpulan & Rekomendasi Strategis
 
