@@ -99,4 +99,4 @@ Berikut adalah hasil eksekusi kueri pada pgAdmin:
 
 ## 📊 Dashboard Interaktif (Tableau)
 Anda dapat melihat visualisasi data dan laporan dashboard interaktif secara langsung untuk proyek ini melalui tautan berikut:
-👉 [Lihat Dashboard Penjualan Amazon di Tableau Public]([PASTE_LINK_TABLEAU_ANDA_DI_SINI](https://public.tableau.com/views/AmazonSalesDataAnalysis_17928385579170/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [Lihat Dashboard Penjualan Amazon di Tableau Public](https://tableau.com)
