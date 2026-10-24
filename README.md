@@ -97,6 +97,4 @@ Berikut adalah hasil eksekusi kueri pada pgAdmin:
 2. **Standardisasi Logistik:** Mendorong integrasi penjual pihak ketiga ke dalam ekosistem pemenuhan pesanan Amazon jika data menunjukkan performa finansialnya lebih unggul.
 3. **Eksplorasi Pasar B2B:** Meluncurkan fitur atau kemudahan pembayaran khusus bisnis untuk menaikkan rata-rata nilai transaksi pada kelompok pengguna B2B.
 
-## 📊 Dashboard Interaktif (Tableau)
-Anda dapat melihat visualisasi data dan laporan dashboard interaktif secara langsung untuk proyek ini melalui tautan berikut:
-👉 [Lihat Dashboard Penjualan Amazon di Tableau Public]([PASTE_LINK_BARU_ANDA_DI_SINI](https://public.tableau.com/views/AmazonSalesDataAnalysis_17928385579170/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Lihat Dashboard Penjualan Amazon di Tableau Public
